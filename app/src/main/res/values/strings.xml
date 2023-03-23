@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Location POC</string>
+    <string name="err.grant_permission">Please grant location access for better app experience</string>
+    <string name="text_location_capture_require">Please turn on GPS setting for accessing current location</string>
+</resources>
